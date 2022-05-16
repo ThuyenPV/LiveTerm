@@ -1,21 +1,17 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "readmeUrl": "https://github.com/ThuyenPV/LiveTerm/blob/main/README.md",
+  "title": "Thuyen Pham",
+  "name": "Thuyen Pham",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/ThuyenPV",
+    "znap": "https://znap.link/midnight-coding"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "phamvanthuyen2802@gmail.com",
+  "ps1_hostname": "live",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/ThuyenPV/LiveTerm",
+  "resume_url": "https://upload.wikimedia.org/",
   "colors": {
     "light": {
       "background": "#FBF1C9",
